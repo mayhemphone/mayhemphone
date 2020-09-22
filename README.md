@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Zac's github stats](https://github-readme-stats.vercel.app/api?username=mayhemphone&theme=react&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayhemphone&layout=compact&theme=react)]
+![Zac's github stats](https://github-readme-stats.vercel.app/api?username=mayhemphone&theme=react&show_icons=true&count_private=true&hide=stars,contribs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayhemphone&layout=compact&theme=react)
+
 
 <!--
 **mayhemphone/mayhemphone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
