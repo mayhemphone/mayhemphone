@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Zac's github stats](https://github-readme-stats.vercel.app/api?username=mayhemphone&theme=react&show_icons=true)
+
 
 <!--
 **mayhemphone/mayhemphone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
