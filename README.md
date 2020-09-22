@@ -1,7 +1,13 @@
-### Hi there 👋
+### Zac Wellsandt
+##### Full stack developer in Seattle who thrives in collaborative and creative environments. Experience with full stack development with a focus in front end using React, Typescript, JavaScript and CSS. Excel in teams that prioritize tackling challenges head-on. Passion for setting and meeting user expectations with purpose-driven software.
+
+##### Pivoting from nearly 15 years of radio programming experience, focused on brand-building, user satisfaction, and strong client relationships. This experience fuels my user focus in software design. 
+
+
 ![Zac's github stats](https://github-readme-stats.vercel.app/api?username=mayhemphone&theme=react&show_icons=true&count_private=true&hide=stars,contribs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayhemphone&layout=compact&theme=react)
 
+###### ** The above language stats do not include private repos, unfortunately.  My day to day work is currently written in Typescript.
 
 <!--
 **mayhemphone/mayhemphone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
